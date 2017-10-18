@@ -19,9 +19,11 @@
     padding: 0.3em;
     width: 10em;
     height: 22em;
-    text-align: center; 
+    text-align: justify; 
     float: left;
     border-top: none;
+    
+
     
     
 
@@ -34,7 +36,7 @@
     padding: 0.3em;
     width: 10.57em;
     height: 22em;
-    text-align: center; 
+    text-align: justify; 
     float: left;
     border-top: none;
     
@@ -48,7 +50,7 @@
     padding: 0.3em;
     width: 10em;
     height: 22em;
-    text-align: center; 
+    text-align: justify; 
     float: left;
     border-left: none;
     border-top: none;
@@ -77,5 +79,10 @@ img{
 
 span{
     color:#7B1A8B;
+}
+
+img{
+    display: block;
+    margin: auto;
 }
 
