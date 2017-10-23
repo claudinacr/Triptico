@@ -1,4 +1,4 @@
-.Intro{
+.Intro {
     margin-top: 2em;
     margin-bottom: 0;
     background-color: #FFC107;
@@ -7,82 +7,66 @@
     padding: 0.3em;
     width: 31.9em;
     height: 1em;
-    text-align: center; 
+    text-align: center;
 }
 
-.Antes{
-
+.Antes {
     border: 0.1em #000000 solid;
-    
     border-right: none;
     font-size: 1.1em;
     padding: 0.3em;
     width: 10em;
     height: 22em;
-    text-align: justify; 
+    text-align: justify;
     float: left;
     border-top: none;
-    
-
-    
-    
-
 }
 
-.Monopoly{
-    
+.Monopoly {
     border: 0.1em #000000 solid;
     font-size: 1.1em;
     padding: 0.3em;
     width: 10.57em;
     height: 22em;
-    text-align: justify; 
+    text-align: justify;
     float: left;
     border-top: none;
-    
-
 }
 
-.Ahora{
-    
+.Ahora {
     border: 0.1em #000000 solid;
     font-size: 1.1em;
     padding: 0.3em;
     width: 10em;
     height: 22em;
-    text-align: justify; 
+    text-align: justify;
     float: left;
     border-left: none;
     border-top: none;
-
 }
 
-.pie{
-    font-size: 1.1em;    
+.pie {
+    font-size: 1.1em;
     width: 32.5em;
     height: 1.5em;
-    text-align: center; 
+    text-align: center;
     background-color: #FFC107;
     clear: both;
     border-left: 1px #000000 solid;
     border-bottom: 1px #000000 solid;
     border-right: 1px #000000 solid;
-    
-
 }
 
-img{
+img {
     width: 5em;
     height: 5em;
-    
 }
 
-span{
-    color:#7B1A8B;
+span {
+    color: #7B1A8B;
 }
 
-img{
+img {
     display: block;
     margin: auto;
 }
-
